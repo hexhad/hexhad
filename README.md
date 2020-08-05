@@ -1,7 +1,7 @@
 ### Hi there, I'm Hashan - aka [hexhad][website] 👋
 
-## I'm a Undergraduate and a Developer!
-- 🔭 I’m currently working on a Game Devlopment
+## I'm a Undergraduate and Developer!
+- 🔭 I’m currently working on a Flutter Project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with FOSS Projects
 - 🥅 2020 Goals: to br an Artist 😅
