@@ -17,7 +17,7 @@
 
 <br />
 
-<img align="left" alt="hexhad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexhad&show_icons=true&hide_border=true" />
+<img align="right" alt="hexhad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexhad&show_icons=true&hide_border=true" />
 
 [website]: https://hexhad.blogspot.com
 [twitter]: https://twitter.com/typodots
