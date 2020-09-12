@@ -12,7 +12,7 @@
 [<img align="left" alt="hexhad | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][soverflow]
 
 <br />
-##
+<hr>
 <img align="left" alt="hexhad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexhad&show_icons=true&hide_border=true" />
 
 [website]: https://hexhad.blogspot.com
