@@ -1,6 +1,6 @@
 ### Hi there, I'm Hashan - aka [hexhad][website] 👋
 
-## I'm a Undergraduate and Developer!
+## I'm an Undergraduate and a Developer!
 
 ### Connect with me:
 
@@ -11,7 +11,7 @@
 [<img align="left" alt="hexhad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="hexhad | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][soverflow]
 
-<br />
+<br/>
 <hr>
 <img align="left" alt="hexhad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexhad&show_icons=true&hide_border=true" />
 
