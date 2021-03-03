@@ -2,7 +2,7 @@
 
 ## I'm an Undergraduate and a Developer!
 
-## Don't forget to visit my Behance account 😎😎
+## Don't forget to visit my [Behance] account 😎😎
 ### Connect with me:
 
 [<img align="left" alt="hexhad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -24,3 +24,4 @@
 [linkedin]: https://linkedin.com/in/hashandharmapriya
 [soverflow]: https://stackoverflow.com/users/12635249/hexhad
 [bha]: https://www.behance.net/hexhad
+[Behance]: https://www.behance.net/hexhad
