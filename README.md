@@ -18,7 +18,7 @@
 <img align="left" alt="hexhad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexhad&show_icons=true&hide_border=true" />
 
 [website]: https://hexhad.github.io/
-[twitter]: https://twitter.com/typodots
+[twitter]: https://twitter.com/byhexhad
 [instagram]: https://instagram.com/hexhad
 [facebook]: https://fb.com/hashandharmapriya
 [linkedin]: https://linkedin.com/in/hashandharmapriya
