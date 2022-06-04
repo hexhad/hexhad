@@ -1,6 +1,6 @@
 ### Hi there, I'm Hashan - aka [hexhad][website] 👋
 
-## I'm an Undergraduate and a Developer!
+## I'm a MOBILE APP Developer!
 
 ## Don't forget to visit my [Behance][Behance] account 😎😎
 ### Connect with me:
