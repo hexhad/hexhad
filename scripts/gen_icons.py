@@ -1,11 +1,14 @@
 """Build assets/apps/<name>.svg: app icons trimmed and styled as Liquid Glass tiles.
 
-Usage: python3 scripts/gen_icons.py assets/apps  (needs dwebp from the webp package)
+Usage: python3 scripts/gen_icons.py assets/apps [name ...]  (needs dwebp from the webp package)
+Set ICON_SRC to a local src/products folder to read icons before they are live on the site.
 """
 import base64, math, os, subprocess, sys, tempfile, urllib.request
 
 OUT = sys.argv[1]
-NAMES = ["notchpal", "notchpal-android", "barqr", "morse", "mirrorme", "splice", "droidtransfer", "diskkeeper", "wasthu"]
+NAMES = sys.argv[2:] or ["notchpal", "notchpal-android", "barqr", "morse", "mirrorme", "splice", "droidtransfer",
+                         "diskkeeper", "hive", "latch", "peek", "akuru", "montage", "lattice", "wasthu"]
+SRC = os.environ.get("ICON_SRC")
 BASE = "https://hexhad.github.io/src/products/{}-icon.webp"
 SIZE = 112
 
@@ -77,7 +80,10 @@ def glass_svg(vx, vy, side, w, h, b64):
 os.makedirs(OUT, exist_ok=True)
 tmp = tempfile.mkdtemp()
 for n in NAMES:
-    webp = urllib.request.urlopen(BASE.format(n)).read()
+    if SRC:
+        webp = open(os.path.join(SRC, n + "-icon.webp"), "rb").read()
+    else:
+        webp = urllib.request.urlopen(BASE.format(n)).read()
     src, pam = os.path.join(tmp, n + ".webp"), os.path.join(tmp, n + ".pam")
     open(src, "wb").write(webp)
     subprocess.run(["dwebp", "-quiet", "-pam", src, "-o", pam], check=True)

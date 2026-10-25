@@ -22,7 +22,13 @@
   <a href="https://splice-web-one.vercel.app/"><img src="assets/apps/splice.svg" width="52" alt="Splice" title="Splice: cut, join and polish audio, offline" /></a>
   <a href="https://droid-transfer-web.vercel.app/"><img src="assets/apps/droidtransfer.svg" width="52" alt="Droid Transfer" title="Droid Transfer: your Android phone, one drag away" /></a>
   <a href="https://disk-keeper-web.vercel.app/"><img src="assets/apps/diskkeeper.svg" width="52" alt="DiskKeeper" title="DiskKeeper: get your disk back" /></a>
+  <a href="https://latch-web-weld.vercel.app/"><img src="assets/apps/latch.svg" width="52" alt="Latch" title="Latch: Touch ID for your Mac apps" /></a>
+  <a href="https://akuru-web-alpha.vercel.app/"><img src="assets/apps/akuru.svg" width="52" alt="Akuru" title="Akuru: type Sinhala the way it sounds" /></a>
   <a href="https://best-width-and-height-for-house-plan.vercel.app/"><img src="assets/apps/wasthu.svg" width="52" alt="Wasthu dimensions" title="Wasthu dimensions: house sizes that follow the Wasthu rules" /></a>
+  <img src="assets/apps/hive.svg" width="52" alt="Hive" title="Hive: one memory for every Claude Code project" />
+  <img src="assets/apps/peek.svg" width="52" alt="Peek" title="Peek: every file you ship, right inside VS Code" />
+  <img src="assets/apps/montage.svg" width="52" alt="Montage" title="Montage: edit video on your phone, offline (in the works)" />
+  <img src="assets/apps/lattice.svg" width="52" alt="Lattice" title="Lattice: puzzles and duels on one grid (in the works)" />
 </p>
 
 ### Open source
